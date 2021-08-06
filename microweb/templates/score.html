@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>test score</title>
+        <link rel="icon" href="/static/img/flag.ico">
+    </head>
+    <body>
+        {% if score >= 80 %}
+        <h1>EXCELLENT!</h1>
+        {% elif score >= 60 %}
+        <h1>PASSED</h1>
+        {% else %}
+        <h1>Fail! Keep going!</h1>
+        {% endif %}
+    </body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cloud-319209",
+  "private_key_id": "865ebbb1655b518b48b183ca46f1c31dd1a23469",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCglv5I2GQc1Pt2\nclN0sj1p4JqFR2KxAJyDaOwVnzvcFyowW1aunsTIBQ+UPLnazkBBjCnsxbwDxbst\nmdUokFyrpUW6nXqXJtAAY6r+J8EHmk+9GxZiWD1kq+4BoRzDDkz+92ykNbAnRH6V\nM4UAk2M2pyxF/JzgVC/Mod234YlVw3gzE7Y67vx+X1Qtz18uSelI8wRfw49vL83f\nXPJtJ9peQg+qY4t36wYA/Ta1T21r2WHwgAFe/zFlLARV19SXT5toQ0xBqmLuo1Vf\nsE8TsO4EpJs4+zB6NAkuSn/mBzGAk+qNBekNqH3v7x0onB2JNRVUeaJ6TKHQ+SzH\n4yv24k8rAgMBAAECggEABoNZONcd6FVzBXDJlbgM6Zhka/djN06RCntc59uXb+u4\nmFF8CIUD8iDSau6zkv4+eOoYYTP71iNU3hqZHJYOTB/d3h249Rxr3zgrnTc7ivVl\nOoQ4ujBd/RFEC+je48JWuRiL3XUX+d+7So3WXRmdMoBBOW1vZ2HCtofyGB0bltDQ\nPbeSUVDpETqOHrMfIjYoMPs5yj6vnFJVND6DxN/J54RqaKEWD54vcB9WqHETLYnD\nYU2fOBEVRDRW/8r5tK7/xXqMXAQiNpcl6tT151tB9h0xMNPAS58QkzAvlOValz2k\n86fLcR+BqwMndErBTTZArxLChTTBwjtQigeq/cQkcQKBgQDU9VgoEp1Ux53X048X\noSiIllx49gLq5+9FH8ucZYEBXGIRbuory9ITPCUUlbj56UTLRBOWt2gTom6SrTd4\nav5h3Kh4UuAMZx1Uzbh5fIEWRXbx6vGfrTVmHJ3fHzA3YP1Kk57UNCBOoArG0Ig+\nwSb4JiknkrfWbfUo7rWw03dGbwKBgQDBDA2cU4qisTS9JYtrcac2ycJjlyqZ1jv0\n8tVU7th4YDscwlxp0EmUvN8vb42ghojxTDTj2K5LrKA91FreznDFidciqZcTz6CJ\nJNtyjN2oOophpWYcUovQHoHKeO3BoG67llIsEa/7chmmVlLl6WwgIp4lxGZ4p64H\nkkV1/fCBBQKBgQDFXUSAjw/k/MOavOVG3wMz4zZ8nHODxcSI6bjIj4IKAtaYlZTN\nVi6xyPIMq94tLzWktMj6y6vXVpjns0VPgsmTZO915Ejk9cPHTomDfhIc0/AysK2S\ncPKmWisuGDeVe3wD2+A9hrnSZJzYOXerwVMedC98D4v1XR7y+pjE8pb+XQKBgQCM\nbrM8BH32qkh+TGCm0a/dqFoTzrT74iANqdVNCs9IimCWJEHL6+yLGfaV8GWr4BKg\nzlovYcIxZKvRLrjIGo9o9EQfgBVaIRFckwZcx2K77ZIbRJIKinYQ+RBb9SqoT4ge\nSFUQn/FQTomgOm3luK+ilOxM9xnALeLouRx0oD2j7QKBgBcceFFHhe1Kg9NIh3+r\nQRcuAJXa7UE6MrShQqadw170pK3+0YpDCETn7JTbFLSnPvlNBZwBXuZk9+MVu3wt\n98iHjLcGbn3IVfPeRIpygDYMg+Qwek729GZfdnc82LYZ9skCcFrGfel63lDu85si\nL4RMGLFNbHxq78aJiIpfNVXy\n-----END PRIVATE KEY-----\n",
+  "client_email": "kukubird@cloud-319209.iam.gserviceaccount.com",
+  "client_id": "105077112760674037403",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kukubird%40cloud-319209.iam.gserviceaccount.com"
+}

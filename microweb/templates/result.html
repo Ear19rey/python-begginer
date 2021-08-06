@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Receipt</title>
+    <link rel="icon" href="/static/img/coin.ico">
+</head>
+<body>
+<b>
+    <p>Name: {{ user }} <br></p>
+    <p>Game: {{ game }} <br></p>
+    Platform:
+    <ul>
+    {% for item in pf %}
+        <li>{{ item }}</li>
+    {% endfor %}
+    </ul>
+    Country: {{ area }}
+</b>
+</body>
+</html>

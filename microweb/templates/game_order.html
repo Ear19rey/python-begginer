@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Game Order</title>
+    <link rel="icon" href="/static/img/game.ico">
+</head>
+<body>
+    <h1><b>Game Order</b></h1>
+    <form action="/order" method="post" >
+        <label for = "user">Name:</label><input type="text" name="user">
+        <p>
+            <legend>Game:</legend>
+            <label><input type="radio" name="game" value="Red Dead Redemption II">Red Dead Redemption II</label>
+            <label><input type="radio" name="game" value="Call of Duty:Modern Warfare">Call of Duty:Modern Warfare</label>
+            <label><input type="radio" name="game" value="Uncharted IV">Uncharted IV</label>
+        </p>
+        <p>
+            <legend>Platform:</legend>
+            <label><input type="checkbox" name="pf" value="PC">PC</label>
+            <label><input type="checkbox" name="pf" value="Switch">Switch</label>
+            <label><input type="checkbox" name="pf" value="PS4">PS4</label>
+            <label><input type="checkbox" name="pf" value="PS5">PS5</label>
+        </p>
+        <p>
+            <label for = "area">Country:</label>
+            <select name="area" id="area">
+                <option value="America">America</option>
+                <option value="Brazil">Brazil</option>
+                <option value="Ireland" selected>Ireland</option>
+                <option value="TW">Taiwan</option>
+            </select>
+        </p>
+        <input type="reset" value="reset">
+        <input type="submit" value="submit">
+    </form>
+</body>
+</html>
